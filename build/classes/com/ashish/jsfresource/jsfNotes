@@ -1,0 +1,29 @@
+Component:
+----------
+JSF includes component that will generate HTML for you.
+
+JSF page structure:
+-------------------
+
+1. Most common configuration is to use .xhtml file extension.
+2. HMTL page with special JSF tags.
+
+<html>
+	... regular html ...
+	... JSF tags ...
+	... more HTML ...
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
