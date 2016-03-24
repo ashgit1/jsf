@@ -14,6 +14,10 @@ JSF page structure:
 	... more HTML ...
 </html>
 
+NameSpace:
+----------
+
+1. Specify the JSF namespace at the beginning of the HTML page.
 
 
 
